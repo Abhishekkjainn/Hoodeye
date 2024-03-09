@@ -1,0 +1,1521 @@
+[
+  {
+    "District Name": "ADILABAD",
+    "Police Station": "Adilabad Urban PS",
+    "Hospital": "Adilabad Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Adilabad District Collectorate"
+  },
+  {
+    "District Name": "ADILABAD",
+    "Police Station": "Asifabad PS",
+    "Hospital": "Asifabad Hospital",
+    "Emergency Shelter": "Asifabad Emergency Shelter",
+    "Government Building": "Asifabad Sub-Collector Office"
+  },
+  {
+    "District Name": "ADILABAD",
+    "Police Station": "Bellampalli PS",
+    "Hospital": "Bellampalli Hospital",
+    "Emergency Shelter": "Bellampalli Emergency Shelter",
+    "Government Building": "Bellampalli Municipal Office"
+  },
+  {
+    "District Name": "VELLORE",
+    "Police Station": "VIT PS",
+    "Hospital": "CMC Hospital Ranipet",
+    "Emergency Shelter": "Katpadi Emergency Shelter",
+    "Government Building": "Vellore Municipal Office"
+  },
+  {
+    "District Name": "VELLORE",
+    "Police Station": "Katpadi PS",
+    "Hospital": "CMC Hospital Main",
+    "Emergency Shelter": "Katpadi Emergency Shelter",
+    "Government Building": "Katpadi Municipal Office"
+  },
+  {
+    "District Name": "ANANTAPUR",
+    "Police Station": "Anantapur Urban PS",
+    "Hospital": "Anantapur Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Anantapur District Collectorate"
+  },
+  {
+    "District Name": "ANANTAPUR",
+    "Police Station": "Dharmavaram PS",
+    "Hospital": "Dharmavaram Hospital",
+    "Emergency Shelter": "Dharmavaram Emergency Shelter",
+    "Government Building": "Dharmavaram Sub-Collector Office"
+  },
+  {
+    "District Name": "ANANTAPUR",
+    "Police Station": "Hindupur PS",
+    "Hospital": "Hindupur Hospital",
+    "Emergency Shelter": "Hindupur Emergency Shelter",
+    "Government Building": "Hindupur Municipal Office"
+  },
+  {
+    "District Name": "CHITTOOR",
+    "Police Station": "Chittoor Urban PS",
+    "Hospital": "Chittoor Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Chittoor District Collectorate"
+  },
+  {
+    "District Name": "CHITTOOR",
+    "Police Station": "Madanapalle PS",
+    "Hospital": "Madanapalle Hospital",
+    "Emergency Shelter": "Madanapalle Emergency Shelter",
+    "Government Building": "Madanapalle Sub-Collector Office"
+  },
+  {
+    "District Name": "CHITTOOR",
+    "Police Station": "Tirupati Urban PS",
+    "Hospital": "Tirupati Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Tirupati Municipal Office"
+  },
+  {
+    "District Name": "CUDDAPAH",
+    "Police Station": "Cuddapah Urban PS",
+    "Hospital": "Cuddapah Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Cuddapah District Collectorate"
+  },
+  {
+    "District Name": "CUDDAPAH",
+    "Police Station": "Kadapa PS",
+    "Hospital": "Kadapa Hospital",
+    "Emergency Shelter": "Kadapa Emergency Shelter",
+    "Government Building": "Kadapa Sub-Collector Office"
+  },
+  {
+    "District Name": "CUDDAPAH",
+    "Police Station": "Proddatur PS",
+    "Hospital": "Proddatur Hospital",
+    "Emergency Shelter": "Proddatur Emergency Shelter",
+    "Government Building": "Proddatur Municipal Office"
+  },
+  {
+    "District Name": "EAST GODAVARI",
+    "Police Station": "Rajahmundry Urban PS",
+    "Hospital": "Rajahmundry Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Rajahmundry District Collectorate"
+  },
+  {
+    "District Name": "EAST GODAVARI",
+    "Police Station": "Kakinada Urban PS",
+    "Hospital": "Kakinada Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Kakinada Municipal Office"
+  },
+  {
+    "District Name": "EAST GODAVARI",
+    "Police Station": "Peddapuram PS",
+    "Hospital": "Peddapuram Hospital",
+    "Emergency Shelter": "Peddapuram Emergency Shelter",
+    "Government Building": "Peddapuram Sub-Collector Office"
+  },
+  {
+    "District Name": "GUNTAKAL RLY.",
+    "Police Station": "Guntakal Rly. PS",
+    "Hospital": "Guntakal Rly. Hospital",
+    "Emergency Shelter": "Guntakal Rly. Emergency Shelter",
+    "Government Building": "Guntakal Rly. Station Office"
+  },
+  {
+    "District Name": "GUNTUR",
+    "Police Station": "Guntur Urban PS",
+    "Hospital": "Guntur Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Guntur District Collectorate"
+  },
+  {
+    "District Name": "GUNTUR",
+    "Police Station": "Mangalagiri PS",
+    "Hospital": "Mangalagiri Hospital",
+    "Emergency Shelter": "Mangalagiri Emergency Shelter",
+    "Government Building": "Mangalagiri Sub-Collector Office"
+  },
+  {
+    "District Name": "GUNTUR",
+    "Police Station": "Narasaraopet PS",
+    "Hospital": "Narasaraopet Hospital",
+    "Emergency Shelter": "Narasaraopet Emergency Shelter",
+    "Government Building": "Narasaraopet Municipal Office"
+  },
+  {
+    "District Name": "HYDERABAD CITY",
+    "Police Station": "Amberpet PS",
+    "Hospital": "Amberpet Hospital",
+    "Emergency Shelter": "Amberpet Emergency Shelter",
+    "Government Building": "Amberpet Municipal Office"
+  },
+  {
+    "District Name": "HYDERABAD CITY",
+    "Police Station": "Bahadurpura PS",
+    "Hospital": "Bahadurpura Hospital",
+    "Emergency Shelter": "Bahadurpura Emergency Shelter",
+    "Government Building": "Bahadurpura Sub-Collector Office"
+  },
+  {
+    "District Name": "HYDERABAD CITY",
+    "Police Station": "Chikkadpally PS",
+    "Hospital": "Chikkadpally Hospital",
+    "Emergency Shelter": "Chikkadpally Emergency Shelter",
+    "Government Building": "Chikkadpally Municipal Office"
+  },
+  {
+    "District Name": "KARIMNAGAR",
+    "Police Station": "Karimnagar Urban PS",
+    "Hospital": "Karimnagar Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Karimnagar District Collectorate"
+  },
+  {
+    "District Name": "KARIMNAGAR",
+    "Police Station": "Jagtial PS",
+    "Hospital": "Jagtial Hospital",
+    "Emergency Shelter": "Jagtial Emergency Shelter",
+    "Government Building": "Jagtial Sub-Collector Office"
+  },
+  {
+    "District Name": "KARIMNAGAR",
+    "Police Station": "Sircilla PS",
+    "Hospital": "Sircilla Hospital",
+    "Emergency Shelter": "Sircilla Emergency Shelter",
+    "Government Building": "Sircilla Municipal Office"
+  },
+  {
+    "District Name": "KHAMMAM",
+    "Police Station": "Khammam Urban PS",
+    "Hospital": "Khammam Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Khammam District Collectorate"
+  },
+  {
+    "District Name": "KHAMMAM",
+    "Police Station": "Kothagudem PS",
+    "Hospital": "Kothagudem Hospital",
+    "Emergency Shelter": "Kothagudem Emergency Shelter",
+    "Government Building": "Kothagudem Sub-Collector Office"
+  },
+  {
+    "District Name": "KHAMMAM",
+    "Police Station": "Paloncha PS",
+    "Hospital": "Paloncha Hospital",
+    "Emergency Shelter": "Paloncha Emergency Shelter",
+    "Government Building": "Paloncha Municipal Office"
+  },
+  {
+    "District Name": "KRISHNA",
+    "Police Station": "Vijayawada Urban PS",
+    "Hospital": "Vijayawada Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Vijayawada District Collectorate"
+  },
+  {
+    "District Name": "KRISHNA",
+    "Police Station": "Machilipatnam PS",
+    "Hospital": "Machilipatnam Hospital",
+    "Emergency Shelter": "Machilipatnam Emergency Shelter",
+    "Government Building": "Machilipatnam Sub-Collector Office"
+  },
+  {
+    "District Name": "KRISHNA",
+    "Police Station": "Nuzvid PS",
+    "Hospital": "Nuzvid Hospital",
+    "Emergency Shelter": "Nuzvid Emergency Shelter",
+    "Government Building": "Nuzvid Municipal Office"
+  },
+  {
+    "District Name": "KURNOOL",
+    "Police Station": "Kurnool Urban PS",
+    "Hospital": "Kurnool Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Kurnool District Collectorate"
+  },
+  {
+    "District Name": "KURNOOL",
+    "Police Station": "Adoni PS",
+    "Hospital": "Adoni Hospital",
+    "Emergency Shelter": "Adoni Emergency Shelter",
+    "Government Building": "Adoni Sub-Collector Office"
+  },
+  {
+    "District Name": "KURNOOL",
+    "Police Station": "Nandyal PS",
+    "Hospital": "Nandyal Hospital",
+    "Emergency Shelter": "Nandyal Emergency Shelter",
+    "Government Building": "Nandyal Municipal Office"
+  },
+  {
+    "District Name": "MAHABOOBNAGAR",
+    "Police Station": "Mahabubnagar Urban PS",
+    "Hospital": "Mahabubnagar Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Mahabubnagar District Collectorate"
+  },
+  {
+    "District Name": "MAHABOOBNAGAR",
+    "Police Station": "Gadwal PS",
+    "Hospital": "Gadwal Hospital",
+    "Emergency Shelter": "Gadwal Emergency Shelter",
+    "Government Building": "Gadwal Sub-Collector Office"
+  },
+  {
+    "District Name": "MAHABOOBNAGAR",
+    "Police Station": "Wanaparthy PS",
+    "Hospital": "Wanaparthy Hospital",
+    "Emergency Shelter": "Wanaparthy Emergency Shelter",
+    "Government Building": "Wanaparthy Municipal Office"
+  },
+  {
+    "District Name": "MEDAK",
+    "Police Station": "Siddipet PS",
+    "Hospital": "Siddipet Hospital",
+    "Emergency Shelter": "Siddipet Emergency Shelter",
+    "Government Building": "Siddipet Sub-Collector Office"
+  },
+  {
+    "District Name": "MEDAK",
+    "Police Station": "Medak PS",
+    "Hospital": "Medak Hospital",
+    "Emergency Shelter": "Medak Emergency Shelter",
+    "Government Building": "Medak Municipal Office"
+  },
+  {
+    "District Name": "MEDAK",
+    "Police Station": "Sangareddy PS",
+    "Hospital": "Sangareddy Hospital",
+    "Emergency Shelter": "Sangareddy Emergency Shelter",
+    "Government Building": "Sangareddy Sub-Collector Office"
+  },
+  {
+    "District Name": "NALGONDA",
+    "Police Station": "Bhongir PS",
+    "Hospital": "Bhongir Hospital",
+    "Emergency Shelter": "Bhongir Emergency Shelter",
+    "Government Building": "Bhongir Municipal Office"
+  },
+  {
+    "District Name": "NALGONDA",
+    "Police Station": "Suryapet PS",
+    "Hospital": "Suryapet Hospital",
+    "Emergency Shelter": "Suryapet Emergency Shelter",
+    "Government Building": "Suryapet Sub-Collector Office"
+  },
+  {
+    "District Name": "NELLORE",
+    "Police Station": "Nellore Urban PS",
+    "Hospital": "Nellore Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Nellore District Collectorate"
+  },
+  {
+    "District Name": "NELLORE",
+    "Police Station": "Gudur PS",
+    "Hospital": "Gudur Hospital",
+    "Emergency Shelter": "Gudur Emergency Shelter",
+    "Government Building": "Gudur Municipal Office"
+  },
+  {
+    "District Name": "NELLORE",
+    "Police Station": "Kavali PS",
+    "Hospital": "Kavali Hospital",
+    "Emergency Shelter": "Kavali Emergency Shelter",
+    "Government Building": "Kavali Sub-Collector Office"
+  },
+  {
+    "District Name": "NIZAMABAD",
+    "Police Station": "Nizamabad Urban PS",
+    "Hospital": "Nizamabad Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Nizamabad District Collectorate"
+  },
+  {
+    "District Name": "NIZAMABAD",
+    "Police Station": "Armoor PS",
+    "Hospital": "Armoor Hospital",
+    "Emergency Shelter": "Armoor Emergency Shelter",
+    "Government Building": "Armoor Municipal Office"
+  },
+  {
+    "District Name": "NIZAMABAD",
+    "Police Station": "Bodhan PS",
+    "Hospital": "Bodhan Hospital",
+    "Emergency Shelter": "Bodhan Emergency Shelter",
+    "Government Building": "Bodhan Sub-Collector Office"
+  },
+  {
+    "District Name": "PRAKASHAM",
+    "Police Station": "Ongole Urban PS",
+    "Hospital": "Ongole Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Ongole District Collectorate"
+  },
+  {
+    "District Name": "PRAKASHAM",
+    "Police Station": "Markapuram PS",
+    "Hospital": "Markapuram Hospital",
+    "Emergency Shelter": "Markapuram Emergency Shelter",
+    "Government Building": "Markapuram Sub-Collector Office"
+  },
+  {
+    "District Name": "PRAKASHAM",
+    "Police Station": "Yerragondapalem PS",
+    "Hospital": "Yerragondapalem Hospital",
+    "Emergency Shelter": "Yerragondapalem Emergency Shelter",
+    "Government Building": "Yerragondapalem Municipal Office"
+  },
+  {
+    "District Name": "RANGA REDDY",
+    "Police Station": "LB Nagar PS",
+    "Hospital": "LB Nagar Hospital",
+    "Emergency Shelter": "LB Nagar Emergency Shelter",
+    "Government Building": "LB Nagar Municipal Office"
+  },
+  {
+    "District Name": "RANGA REDDY",
+    "Police Station": "Shamshabad PS",
+    "Hospital": "Shamshabad Hospital",
+    "Emergency Shelter": "Shamshabad Emergency Shelter",
+    "Government Building": "Shamshabad Sub-Collector Office"
+  },
+  {
+    "District Name": "RANGA REDDY",
+    "Police Station": "Ibrahimpatnam PS",
+    "Hospital": "Ibrahimpatnam Hospital",
+    "Emergency Shelter": "Ibrahimpatnam Emergency Shelter",
+    "Government Building": "Ibrahimpatnam Municipal Office"
+  },
+  {
+    "District Name": "SECUNDERABAD RLY.",
+    "Police Station": "Secunderabad Rly. PS",
+    "Hospital": "Secunderabad Rly. Hospital",
+    "Emergency Shelter": "Secunderabad Rly. Emergency Shelter",
+    "Government Building": "Secunderabad Rly. Station Office"
+  },
+  {
+    "District Name": "SECUNDERABAD RLY.",
+    "Police Station": "Maula Ali PS",
+    "Hospital": "Maula Ali Hospital",
+    "Emergency Shelter": "Maula Ali Emergency Shelter",
+    "Government Building": "Maula Ali Sub-Collector Office"
+  },
+  {
+    "District Name": "SECUNDERABAD RLY.",
+    "Police Station": "Begumpet PS",
+    "Hospital": "Begumpet Hospital",
+    "Emergency Shelter": "Begumpet Emergency Shelter",
+    "Government Building": "Begumpet Municipal Office"
+  },
+  {
+    "District Name": "SRIKAKULAM",
+    "Police Station": "Srikakulam Urban PS",
+    "Hospital": "Srikakulam Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Srikakulam District Collectorate"
+  },
+  {
+    "District Name": "SRIKAKULAM",
+    "Police Station": "Palasa PS",
+    "Hospital": "Palasa Hospital",
+    "Emergency Shelter": "Palasa Emergency Shelter",
+    "Government Building": "Palasa Sub-Collector Office"
+  },
+  {
+    "District Name": "SRIKAKULAM",
+    "Police Station": "Tekkali PS",
+    "Hospital": "Tekkali Hospital",
+    "Emergency Shelter": "Tekkali Emergency Shelter",
+    "Government Building": "Tekkali Municipal Office"
+  },
+  {
+    "District Name": "VIJAYAWADA",
+    "Police Station": "Vijayawada Urban PS",
+    "Hospital": "Vijayawada Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Vijayawada District Collectorate"
+  },
+  {
+    "District Name": "VIJAYAWADA",
+    "Police Station": "Machilipatnam PS",
+    "Hospital": "Machilipatnam Hospital",
+    "Emergency Shelter": "Machilipatnam Emergency Shelter",
+    "Government Building": "Machilipatnam Sub-Collector Office"
+  },
+  {
+    "District Name": "VIJAYAWADA",
+    "Police Station": "Nuzvid PS",
+    "Hospital": "Nuzvid Hospital",
+    "Emergency Shelter": "Nuzvid Emergency Shelter",
+    "Government Building": "Nuzvid Municipal Office"
+  },
+  {
+    "District Name": "VIJAYAWADA RLY.",
+    "Police Station": "Vijayawada Rly. PS",
+    "Hospital": "Vijayawada Rly. Hospital",
+    "Emergency Shelter": "Vijayawada Rly. Emergency Shelter",
+    "Government Building": "Vijayawada Rly. Station Office"
+  },
+  {
+    "District Name": "VIJAYAWADA RLY.",
+    "Police Station": "Gudivada PS",
+    "Hospital": "Gudivada Hospital",
+    "Emergency Shelter": "Gudivada Emergency Shelter",
+    "Government Building": "Gudivada Sub-Collector Office"
+  },
+  {
+    "District Name": "VIJAYAWADA RLY.",
+    "Police Station": "Machilipatnam PS",
+    "Hospital": "Machilipatnam Hospital",
+    "Emergency Shelter": "Machilipatnam Emergency Shelter",
+    "Government Building": "Machilipatnam Municipal Office"
+  },
+  {
+    "District Name": "VISAKHA RURAL",
+    "Police Station": "Bheemunipatnam PS",
+    "Hospital": "Bheemunipatnam Hospital",
+    "Emergency Shelter": "Bheemunipatnam Emergency Shelter",
+    "Government Building": "Bheemunipatnam Sub-Collector Office"
+  },
+  {
+    "District Name": "VISAKHA RURAL",
+    "Police Station": "Chodavaram PS",
+    "Hospital": "Chodavaram Hospital",
+    "Emergency Shelter": "Chodavaram Emergency Shelter",
+    "Government Building": "Chodavaram Municipal Office"
+  },
+  {
+    "District Name": "VISAKHA RURAL",
+    "Police Station": "Paderu PS",
+    "Hospital": "Paderu Hospital",
+    "Emergency Shelter": "Paderu Emergency Shelter",
+    "Government Building": "Paderu Sub-Collector Office"
+  },
+  {
+    "District Name": "VISAKHAPATNAM",
+    "Police Station": "Visakhapatnam Urban PS",
+    "Hospital": "Visakhapatnam Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Visakhapatnam District Collectorate"
+  },
+  {
+    "District Name": "VISAKHAPATNAM",
+    "Police Station": "Gajuwaka PS",
+    "Hospital": "Gajuwaka Hospital",
+    "Emergency Shelter": "Gajuwaka Emergency Shelter",
+    "Government Building": "Gajuwaka Municipal Office"
+  },
+  {
+    "District Name": "VISAKHAPATNAM",
+    "Police Station": "Narsipatnam PS",
+    "Hospital": "Narsipatnam Hospital",
+    "Emergency Shelter": "Narsipatnam Emergency Shelter",
+    "Government Building": "Narsipatnam Sub-Collector Office"
+  },
+  {
+    "District Name": "VIZIANAGARAM",
+    "Police Station": "Vizianagaram Urban PS",
+    "Hospital": "Vizianagaram Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Vizianagaram District Collectorate"
+  },
+  {
+    "District Name": "VIZIANAGARAM",
+    "Police Station": "Bobbili PS",
+    "Hospital": "Bobbili Hospital",
+    "Emergency Shelter": "Bobbili Emergency Shelter",
+    "Government Building": "Bobbili Sub-Collector Office"
+  },
+  {
+    "District Name": "WARANGAL",
+    "Police Station": "Warangal Urban PS",
+    "Hospital": "Warangal Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Warangal District Collectorate"
+  },
+  {
+    "District Name": "WARANGAL",
+    "Police Station": "Jangaon PS",
+    "Hospital": "Jangaon Hospital",
+    "Emergency Shelter": "Jangaon Emergency Shelter",
+    "Government Building": "Jangaon Municipal Office"
+  },
+  {
+    "District Name": "WARANGAL",
+    "Police Station": "Mahabubabad PS",
+    "Hospital": "Mahabubabad Hospital",
+    "Emergency Shelter": "Mahabubabad Emergency Shelter",
+    "Government Building": "Mahabubabad Sub-Collector Office"
+  },
+  {
+    "District Name": "WEST GODAVARI",
+    "Police Station": "Eluru Urban PS",
+    "Hospital": "Eluru Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Eluru District Collectorate"
+  },
+  {
+    "District Name": "WEST GODAVARI",
+    "Police Station": "Bhimavaram PS",
+    "Hospital": "Bhimavaram Hospital",
+    "Emergency Shelter": "Bhimavaram Emergency Shelter",
+    "Government Building": "Bhimavaram Municipal Office"
+  },
+  {
+    "District Name": "WEST GODAVARI",
+    "Police Station": "Narasapuram PS",
+    "Hospital": "Narasapuram Hospital",
+    "Emergency Shelter": "Narasapuram Emergency Shelter",
+    "Government Building": "Narasapuram Sub-Collector Office"
+  },
+  {
+    "District Name": "District Name",
+    "Police Station": "Police Station",
+    "Hospital": "Hospital",
+    "Emergency Shelter": "Emergency Shelter",
+    "Government Building": "Government Building"
+  },
+  {
+    "District Name": "TOTAL",
+    "Police Station": "TOTAL PS",
+    "Hospital": "TOTAL Hospital",
+    "Emergency Shelter": "TOTAL Emergency Shelter",
+    "Government Building": "TOTAL District Collectorate"
+  },
+  {
+    "District Name": "CHANGLANG",
+    "Police Station": "Changlang Urban PS",
+    "Hospital": "Changlang Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Changlang District Collectorate"
+  },
+  {
+    "District Name": "CHANGLANG",
+    "Police Station": "Miao PS",
+    "Hospital": "Miao Hospital",
+    "Emergency Shelter": "Miao Emergency Shelter",
+    "Government Building": "Miao Sub-Collector Office"
+  },
+  {
+    "District Name": "DIBANG VALLEY",
+    "Police Station": "Dibang Valley Urban PS",
+    "Hospital": "Dibang Valley Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Dibang Valley District Collectorate"
+  },
+  {
+    "District Name": "DIBANG VALLEY",
+    "Police Station": "Anini PS",
+    "Hospital": "Anini Hospital",
+    "Emergency Shelter": "Anini Emergency Shelter",
+    "Government Building": "Anini Sub-Collector Office"
+  },
+  {
+    "District Name": "KAMENG EAST",
+    "Police Station": "Kameng East Urban PS",
+    "Hospital": "Kameng East Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Kameng East District Collectorate"
+  },
+  {
+    "District Name": "KAMENG EAST",
+    "Police Station": "Seppa PS",
+    "Hospital": "Seppa Hospital",
+    "Emergency Shelter": "Seppa Emergency Shelter",
+    "Government Building": "Seppa Sub-Collector Office"
+  },
+  {
+    "District Name": "KAMENG WEST",
+    "Police Station": "Kameng West Urban PS",
+    "Hospital": "Kameng West Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Kameng West District Collectorate"
+  },
+  {
+    "District Name": "KAMENG WEST",
+    "Police Station": "Bomdila PS",
+    "Hospital": "Bomdila Hospital",
+    "Emergency Shelter": "Bomdila Emergency Shelter",
+    "Government Building": "Bomdila Sub-Collector Office"
+  },
+  {
+    "District Name": "LOHIT",
+    "Police Station": "Tezu Urban PS",
+    "Hospital": "Tezu Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Tezu District Collectorate"
+  },
+  {
+    "District Name": "LOHIT",
+    "Police Station": "Hawai PS",
+    "Hospital": "Hawai Hospital",
+    "Emergency Shelter": "Hawai Emergency Shelter",
+    "Government Building": "Hawai Sub-Collector Office"
+  },
+  {
+    "District Name": "PAPUM PARE",
+    "Police Station": "Itanagar Urban PS",
+    "Hospital": "Itanagar Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Itanagar District Collectorate"
+  },
+  {
+    "District Name": "PAPUM PARE",
+    "Police Station": "Balijan PS",
+    "Hospital": "Balijan Hospital",
+    "Emergency Shelter": "Balijan Emergency Shelter",
+    "Government Building": "Balijan Sub-Collector Office"
+  },
+  {
+    "District Name": "SIANG EAST",
+    "Police Station": "Pasighat Urban PS",
+    "Hospital": "Pasighat Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Pasighat District Collectorate"
+  },
+  {
+    "District Name": "SIANG EAST",
+    "Police Station": "Ruksin PS",
+    "Hospital": "Ruksin Hospital",
+    "Emergency Shelter": "Ruksin Emergency Shelter",
+    "Government Building": "Ruksin Sub-Collector Office"
+  },
+  {
+    "District Name": "SIANG UPPER",
+    "Police Station": "Yingkiong Urban PS",
+    "Hospital": "Yingkiong Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Yingkiong District Collectorate"
+  },
+  {
+    "District Name": "SIANG UPPER",
+    "Police Station": "Along PS",
+    "Hospital": "Along Hospital",
+    "Emergency Shelter": "Along Emergency Shelter",
+    "Government Building": "Along Sub-Collector Office"
+  },
+  {
+    "District Name": "SIANG WEST",
+    "Police Station": "Aalo Urban PS",
+    "Hospital": "Aalo Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Aalo District Collectorate"
+  },
+  {
+    "District Name": "SIANG WEST",
+    "Police Station": "Likabali PS",
+    "Hospital": "Likabali Hospital",
+    "Emergency Shelter": "Likabali Emergency Shelter",
+    "Government Building": "Likabali Sub-Collector Office"
+  },
+  {
+    "District Name": "SUBANSIRI LOWER",
+    "Police Station": "Ziro Urban PS",
+    "Hospital": "Ziro Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Ziro District Collectorate"
+  },
+  {
+    "District Name": "SUBANSIRI LOWER",
+    "Police Station": "Nacho PS",
+    "Hospital": "Nacho Hospital",
+    "Emergency Shelter": "Nacho Emergency Shelter",
+    "Government Building": "Nacho Sub-Collector Office"
+  },
+  {
+    "District Name": "SUBANSIRI UPPER",
+    "Police Station": "Daporijo Urban PS",
+    "Hospital": "Daporijo Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Daporijo District Collectorate"
+  },
+  {
+    "District Name": "SUBANSIRI UPPER",
+    "Police Station": "Tali PS",
+    "Hospital": "Tali Hospital",
+    "Emergency Shelter": "Tali Emergency Shelter",
+    "Government Building": "Tali Sub-Collector Office"
+  },
+  {
+    "District Name": "TAWANG",
+    "Police Station": "Tawang Urban PS",
+    "Hospital": "Tawang Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Tawang District Collectorate"
+  },
+  {
+    "District Name": "TAWANG",
+    "Police Station": "Bomja PS",
+    "Hospital": "Bomja Hospital",
+    "Emergency Shelter": "Bomja Emergency Shelter",
+    "Government Building": "Bomja Sub-Collector Office"
+  },
+  {
+    "District Name": "TIRAP",
+    "Police Station": "Tirap Urban PS",
+    "Hospital": "Tirap Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Tirap District Collectorate"
+  },
+  {
+    "District Name": "TIRAP",
+    "Police Station": "Khonsa PS",
+    "Hospital": "Khonsa Hospital",
+    "Emergency Shelter": "Khonsa Emergency Shelter",
+    "Government Building": "Khonsa Sub-Collector Office"
+  },
+  {
+    "District Name": "BARPETA",
+    "Police Station": "Barpeta Urban PS",
+    "Hospital": "Barpeta Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Barpeta District Collectorate"
+  },
+  {
+    "District Name": "BARPETA",
+    "Police Station": "Howly PS",
+    "Hospital": "Howly Hospital",
+    "Emergency Shelter": "Howly Emergency Shelter",
+    "Government Building": "Howly Sub-Collector Office"
+  },
+  {
+    "District Name": "BONGAIGAON",
+    "Police Station": "Bongaigaon Urban PS",
+    "Hospital": "Bongaigaon Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Bongaigaon District Collectorate"
+  },
+  {
+    "District Name": "BONGAIGAON",
+    "Police Station": "Bijni PS",
+    "Hospital": "Bijni Hospital",
+    "Emergency Shelter": "Bijni Emergency Shelter",
+    "Government Building": "Bijni Sub-Collector Office"
+  },
+  {
+    "District Name": "C.I.D.",
+    "Police Station": "CID PS",
+    "Hospital": "CID Hospital",
+    "Emergency Shelter": "CID Emergency Shelter",
+    "Government Building": "CID District Collectorate"
+  },
+  {
+    "District Name": "C.I.D.",
+    "Police Station": "CID",
+    "Hospital": "Superintendent of Police Office",
+    "Emergency Shelter": "CID Emergency Shelter",
+    "Government Building": "CID District Collectorate"
+  },
+  {
+    "District Name": "CACHAR",
+    "Police Station": "Silchar Urban PS",
+    "Hospital": "Silchar Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Silchar District Collectorate"
+  },
+  {
+    "District Name": "CACHAR",
+    "Police Station": "Udharbond PS",
+    "Hospital": "Udharbond Hospital",
+    "Emergency Shelter": "Udharbond Emergency Shelter",
+    "Government Building": "Udharbond Sub-Collector Office"
+  },
+  {
+    "District Name": "DARRANG",
+    "Police Station": "Mangaldoi Urban PS",
+    "Hospital": "Mangaldoi Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Mangaldoi District Collectorate"
+  },
+  {
+    "District Name": "DARRANG",
+    "Police Station": "Sipajhar PS",
+    "Hospital": "Sipajhar Hospital",
+    "Emergency Shelter": "Sipajhar Emergency Shelter",
+    "Government Building": "Sipajhar Sub-Collector Office"
+  },
+  {
+    "District Name": "DHEMAJI",
+    "Police Station": "Dhemaji Urban PS",
+    "Hospital": "Dhemaji Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Dhemaji District Collectorate"
+  },
+  {
+    "District Name": "DHEMAJI",
+    "Police Station": "Gogamukh PS",
+    "Hospital": "Gogamukh Hospital",
+    "Emergency Shelter": "Gogamukh Emergency Shelter",
+    "Government Building": "Gogamukh Sub-Collector Office"
+  },
+  {
+    "District Name": "DHUBRI",
+    "Police Station": "Dhubri Urban PS",
+    "Hospital": "Dhubri Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Dhubri District Collectorate"
+  },
+  {
+    "District Name": "DHUBRI",
+    "Police Station": "Gauripur PS",
+    "Hospital": "Gauripur Hospital",
+    "Emergency Shelter": "Gauripur Emergency Shelter",
+    "Government Building": "Gauripur Sub-Collector Office"
+  },
+  {
+    "District Name": "DIBRUGARH",
+    "Police Station": "Dibrugarh Urban PS",
+    "Hospital": "Dibrugarh Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Dibrugarh District Collectorate"
+  },
+  {
+    "District Name": "DIBRUGARH",
+    "Police Station": "Tingkhong PS",
+    "Hospital": "Tingkhong Hospital",
+    "Emergency Shelter": "Tingkhong Emergency Shelter",
+    "Government Building": "Tingkhong Sub-Collector Office"
+  },
+  {
+    "District Name": "G.R.P.",
+    "Police Station": "GRP PS",
+    "Hospital": "GRP Hospital",
+    "Emergency Shelter": "GRP Emergency Shelter",
+    "Government Building": "GRP District Collectorate"
+  },
+  {
+    "District Name": "G.R.P.",
+    "Police Station": "GRP",
+    "Hospital": "Superintendent of Police Office",
+    "Emergency Shelter": "GRP Emergency Shelter",
+    "Government Building": "GRP District Collectorate"
+  },
+  {
+    "District Name": "GOALPARA",
+    "Police Station": "Goalpara Urban PS",
+    "Hospital": "Goalpara Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Goalpara District Collectorate"
+  },
+  {
+    "District Name": "GOALPARA",
+    "Police Station": "Dudhnoi PS",
+    "Hospital": "Dudhnoi Hospital",
+    "Emergency Shelter": "Dudhnoi Emergency Shelter",
+    "Government Building": "Dudhnoi Sub-Collector Office"
+  },
+  {
+    "District Name": "GOLAGHAT",
+    "Police Station": "Golaghat Urban PS",
+    "Hospital": "Golaghat Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Golaghat District Collectorate"
+  },
+  {
+    "District Name": "GOLAGHAT",
+    "Police Station": "Numaligarh PS",
+    "Hospital": "Numaligarh Hospital",
+    "Emergency Shelter": "Numaligarh Emergency Shelter",
+    "Government Building": "Numaligarh Sub-Collector Office"
+  },
+  {
+    "District Name": "GUWAHATI CITY",
+    "Police Station": "Guwahati City PS",
+    "Hospital": "Guwahati City Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Guwahati City District Collectorate"
+  },
+  {
+    "District Name": "GUWAHATI CITY",
+    "Police Station": "Paltan Bazar PS",
+    "Hospital": "Paltan Bazar Hospital",
+    "Emergency Shelter": "Paltan Bazar Emergency Shelter",
+    "Government Building": "Paltan Bazar Sub-Collector Office"
+  },
+  {
+    "District Name": "HAILAKANDI",
+    "Police Station": "Hailakandi Urban PS",
+    "Hospital": "Hailakandi Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Hailakandi District Collectorate"
+  },
+  {
+    "District Name": "HAILAKANDI",
+    "Police Station": "Lala PS",
+    "Hospital": "Lala Hospital",
+    "Emergency Shelter": "Lala Emergency Shelter",
+    "Government Building": "Lala Sub-Collector Office"
+  },
+  {
+    "District Name": "JORHAT",
+    "Police Station": "Jorhat Urban PS",
+    "Hospital": "Jorhat Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Jorhat District Collectorate"
+  },
+  {
+    "District Name": "JORHAT",
+    "Police Station": "Titabor PS",
+    "Hospital": "Titabor Hospital",
+    "Emergency Shelter": "Titabor Emergency Shelter",
+    "Government Building": "Titabor Sub-Collector Office"
+  },
+  {
+    "District Name": "KAMRUP",
+    "Police Station": "Kamrup Urban PS",
+    "Hospital": "Kamrup Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Kamrup District Collectorate"
+  },
+  {
+    "District Name": "KAMRUP",
+    "Police Station": "Chaygaon PS",
+    "Hospital": "Chaygaon Hospital",
+    "Emergency Shelter": "Chaygaon Emergency Shelter",
+    "Government Building": "Chaygaon Sub-Collector Office"
+  },
+  {
+    "District Name": "KARBI ANGLONG",
+    "Police Station": "Diphu Urban PS",
+    "Hospital": "Diphu Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Diphu District Collectorate"
+  },
+  {
+    "District Name": "KARBI ANGLONG",
+    "Police Station": "Hamren PS",
+    "Hospital": "Hamren Hospital",
+    "Emergency Shelter": "Hamren Emergency Shelter",
+    "Government Building": "Hamren Sub-Collector Office"
+  },
+  {
+    "District Name": "KARIMGANJ",
+    "Police Station": "Karimganj Urban PS",
+    "Hospital": "Karimganj Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Karimganj District Collectorate"
+  },
+  {
+    "District Name": "KARIMGANJ",
+    "Police Station": "Patharkandi PS",
+    "Hospital": "Patharkandi Hospital",
+    "Emergency Shelter": "Patharkandi Emergency Shelter",
+    "Government Building": "Patharkandi Sub-Collector Office"
+  },
+  {
+    "District Name": "KOKRAJHAR",
+    "Police Station": "Kokrajhar Urban PS",
+    "Hospital": "Kokrajhar Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Kokrajhar District Collectorate"
+  },
+  {
+    "District Name": "KOKRAJHAR",
+    "Police Station": "Gossaigaon PS",
+    "Hospital": "Gossaigaon Hospital",
+    "Emergency Shelter": "Gossaigaon Emergency Shelter",
+    "Government Building": "Gossaigaon Sub-Collector Office"
+  },
+  {
+    "District Name": "LAKHIMPUR",
+    "Police Station": "Lakhimpur Urban PS",
+    "Hospital": "Lakhimpur Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Lakhimpur District Collectorate"
+  },
+  {
+    "District Name": "LAKHIMPUR",
+    "Police Station": "Bihpuria PS",
+    "Hospital": "Bihpuria Hospital",
+    "Emergency Shelter": "Bihpuria Emergency Shelter",
+    "Government Building": "Bihpuria Sub-Collector Office"
+  },
+  {
+    "District Name": "MORIGAON",
+    "Police Station": "Morigaon Urban PS",
+    "Hospital": "Morigaon Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Morigaon District Collectorate"
+  },
+  {
+    "District Name": "MORIGAON",
+    "Police Station": "Laharighat PS",
+    "Hospital": "Laharighat Hospital",
+    "Emergency Shelter": "Laharighat Emergency Shelter",
+    "Government Building": "Laharighat Sub-Collector Office"
+  },
+  {
+    "District Name": "N.C.HILLS",
+    "Police Station": "Haflong Urban PS",
+    "Hospital": "Haflong Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Haflong District Collectorate"
+  },
+  {
+    "District Name": "N.C.HILLS",
+    "Police Station": "Maibang PS",
+    "Hospital": "Maibang Hospital",
+    "Emergency Shelter": "Maibang Emergency Shelter",
+    "Government Building": "Maibang Sub-Collector Office"
+  },
+  {
+    "District Name": "NAGAON",
+    "Police Station": "Nagaon Urban PS",
+    "Hospital": "Nagaon Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Nagaon District Collectorate"
+  },
+  {
+    "District Name": "NAGAON",
+    "Police Station": "Barhampur PS",
+    "Hospital": "Barhampur Hospital",
+    "Emergency Shelter": "Barhampur Emergency Shelter",
+    "Government Building": "Barhampur Sub-Collector Office"
+  },
+  {
+    "District Name": "NALBARI",
+    "Police Station": "Nalbari Urban PS",
+    "Hospital": "Nalbari Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Nalbari District Collectorate"
+  },
+  {
+    "District Name": "NALBARI",
+    "Police Station": "Tamulpur PS",
+    "Hospital": "Tamulpur Hospital",
+    "Emergency Shelter": "Tamulpur Emergency Shelter",
+    "Government Building": "Tamulpur Sub-Collector Office"
+  },
+  {
+    "District Name": "R.P.O.",
+    "Police Station": "RPO PS",
+    "Hospital": "RPO Hospital",
+    "Emergency Shelter": "RPO Emergency Shelter",
+    "Government Building": "RPO District Collectorate"
+  },
+  {
+    "District Name": "R.P.O.",
+    "Police Station": "RPO",
+    "Hospital": "Superintendent of Police Office",
+    "Emergency Shelter": "RPO Emergency Shelter",
+    "Government Building": "RPO District Collectorate"
+  },
+  {
+    "District Name": "SIBSAGAR",
+    "Police Station": "Sibsagar Urban PS",
+    "Hospital": "Sibsagar Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Sibsagar District Collectorate"
+  },
+  {
+    "District Name": "SIBSAGAR",
+    "Police Station": "Nazira PS",
+    "Hospital": "Nazira Hospital",
+    "Emergency Shelter": "Nazira Emergency Shelter",
+    "Government Building": "Nazira Sub-Collector Office"
+  },
+  {
+    "District Name": "SONITPUR",
+    "Police Station": "Tezpur Urban PS",
+    "Hospital": "Tezpur Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Tezpur District Collectorate"
+  },
+  {
+    "District Name": "SONITPUR",
+    "Police Station": "Dhekiajuli PS",
+    "Hospital": "Dhekiajuli Hospital",
+    "Emergency Shelter": "Dhekiajuli Emergency Shelter",
+    "Government Building": "Dhekiajuli Sub-Collector Office"
+  },
+  {
+    "District Name": "TINSUKIA",
+    "Police Station": "Tinsukia Urban PS",
+    "Hospital": "Tinsukia Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Tinsukia District Collectorate"
+  },
+  {
+    "District Name": "TINSUKIA",
+    "Police Station": "Duliajan PS",
+    "Hospital": "Duliajan Hospital",
+    "Emergency Shelter": "Duliajan Emergency Shelter",
+    "Government Building": "Duliajan Sub-Collector Office"
+  },
+  {
+    "District Name": "ARARIA",
+    "Police Station": "Araria Urban PS",
+    "Hospital": "Araria Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Araria District Collectorate"
+  },
+  {
+    "District Name": "ARARIA",
+    "Police Station": "Narpatganj PS",
+    "Hospital": "Narpatganj Hospital",
+    "Emergency Shelter": "Narpatganj Emergency Shelter",
+    "Government Building": "Narpatganj Sub-Collector Office"
+  },
+  {
+    "District Name": "ARWAL",
+    "Police Station": "Arwal Urban PS",
+    "Hospital": "Arwal Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Arwal District Collectorate"
+  },
+  {
+    "District Name": "ARWAL",
+    "Police Station": "Jehanabad PS",
+    "Hospital": "Jehanabad Hospital",
+    "Emergency Shelter": "Jehanabad Emergency Shelter",
+    "Government Building": "Jehanabad Sub-Collector Office"
+  },
+  {
+    "District Name": "AURANGABAD",
+    "Police Station": "Aurangabad Urban PS",
+    "Hospital": "Aurangabad Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Aurangabad District Collectorate"
+  },
+  {
+    "District Name": "AURANGABAD",
+    "Police Station": "Nabinagar PS",
+    "Hospital": "Nabinagar Hospital",
+    "Emergency Shelter": "Nabinagar Emergency Shelter",
+    "Government Building": "Nabinagar Sub-Collector Office"
+  },
+  {
+    "District Name": "BAGAHA",
+    "Police Station": "Bagaha Urban PS",
+    "Hospital": "Bagaha Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Bagaha District Collectorate"
+  },
+  {
+    "District Name": "BAGAHA",
+    "Police Station": "Narkatiaganj PS",
+    "Hospital": "Narkatiaganj Hospital",
+    "Emergency Shelter": "Narkatiaganj Emergency Shelter",
+    "Government Building": "Narkatiaganj Sub-Collector Office"
+  },
+  {
+    "District Name": "BANKA",
+    "Police Station": "Banka Urban PS",
+    "Hospital": "Banka Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Banka District Collectorate"
+  },
+  {
+    "District Name": "BANKA",
+    "Police Station": "Belhar PS",
+    "Hospital": "Belhar Hospital",
+    "Emergency Shelter": "Belhar Emergency Shelter",
+    "Government Building": "Belhar Sub-Collector Office"
+  },
+  {
+    "District Name": "BEGUSARAI",
+    "Police Station": "Begusarai Urban PS",
+    "Hospital": "Begusarai Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Begusarai District Collectorate"
+  },
+  {
+    "District Name": "BEGUSARAI",
+    "Police Station": "Morwa PS",
+    "Hospital": "Morwa Hospital",
+    "Emergency Shelter": "Morwa Emergency Shelter",
+    "Government Building": "Morwa Sub-Collector Office"
+  },
+  {
+    "District Name": "BETTIAH",
+    "Police Station": "Bettiah Urban PS",
+    "Hospital": "Bettiah Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Bettiah District Collectorate"
+  },
+  {
+    "District Name": "BETTIAH",
+    "Police Station": "Chanpatia PS",
+    "Hospital": "Chanpatia Hospital",
+    "Emergency Shelter": "Chanpatia Emergency Shelter",
+    "Government Building": "Chanpatia Sub-Collector Office"
+  },
+  {
+    "District Name": "BHABHUA",
+    "Police Station": "Bhabhua Urban PS",
+    "Hospital": "Bhabhua Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Bhabhua District Collectorate"
+  },
+  {
+    "District Name": "BHABHUA",
+    "Police Station": "Bhabhua PS",
+    "Hospital": "Bhabhua Hospital",
+    "Emergency Shelter": "Bhabhua Emergency Shelter",
+    "Government Building": "Bhabhua Sub-Collector Office"
+  },
+  {
+    "District Name": "BHAGALPUR",
+    "Police Station": "Bhagalpur Urban PS",
+    "Hospital": "Bhagalpur Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Bhagalpur District Collectorate"
+  },
+  {
+    "District Name": "BHAGALPUR",
+    "Police Station": "Sabour PS",
+    "Hospital": "Sabour Hospital",
+    "Emergency Shelter": "Sabour Emergency Shelter",
+    "Government Building": "Sabour Sub-Collector Office"
+  },
+  {
+    "District Name": "BHOJPUR",
+    "Police Station": "Bhojpur Urban PS",
+    "Hospital": "Bhojpur Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Bhojpur District Collectorate"
+  },
+  {
+    "District Name": "BHOJPUR",
+    "Police Station": "Arrah PS",
+    "Hospital": "Arrah Hospital",
+    "Emergency Shelter": "Arrah Emergency Shelter",
+    "Government Building": "Arrah Sub-Collector Office"
+  },
+  {
+    "District Name": "BUXAR",
+    "Police Station": "Buxar Urban PS",
+    "Hospital": "Buxar Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Buxar District Collectorate"
+  },
+  {
+    "District Name": "BUXAR",
+    "Police Station": "Buxar PS",
+    "Hospital": "Buxar Hospital",
+    "Emergency Shelter": "Buxar Emergency Shelter",
+    "Government Building": "Buxar Sub-Collector Office"
+  },
+  {
+    "District Name": "DARBHANGA",
+    "Police Station": "Darbhanga Urban PS",
+    "Hospital": "Darbhanga Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Darbhanga District Collectorate"
+  },
+  {
+    "District Name": "DARBHANGA",
+    "Police Station": "Biraul PS",
+    "Hospital": "Biraul Hospital",
+    "Emergency Shelter": "Biraul Emergency Shelter",
+    "Government Building": "Biraul Sub-Collector Office"
+  },
+  {
+    "District Name": "GAYA",
+    "Police Station": "Gaya Urban PS",
+    "Hospital": "Gaya Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Gaya District Collectorate"
+  },
+  {
+    "District Name": "GAYA",
+    "Police Station": "Tikari PS",
+    "Hospital": "Tikari Hospital",
+    "Emergency Shelter": "Tikari Emergency Shelter",
+    "Government Building": "Tikari Sub-Collector Office"
+  },
+  {
+    "District Name": "GOPALGANJ",
+    "Police Station": "Gopalganj Urban PS",
+    "Hospital": "Gopalganj Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Gopalganj District Collectorate"
+  },
+  {
+    "District Name": "GOPALGANJ",
+    "Police Station": "Kuchaikote PS",
+    "Hospital": "Kuchaikote Hospital",
+    "Emergency Shelter": "Kuchaikote Emergency Shelter",
+    "Government Building": "Kuchaikote Sub-Collector Office"
+  },
+  {
+    "District Name": "JAMALPUR RLY.",
+    "Police Station": "Jamalpur Rly. PS",
+    "Hospital": "Jamalpur Rly. Hospital",
+    "Emergency Shelter": "Jamalpur Rly. Emergency Shelter",
+    "Government Building": "Jamalpur Rly. Station Office"
+  },
+  {
+    "District Name": "JAMALPUR RLY.",
+    "Police Station": "Bariarpur PS",
+    "Hospital": "Bariarpur Hospital",
+    "Emergency Shelter": "Bariarpur Emergency Shelter",
+    "Government Building": "Bariarpur Sub-Collector Office"
+  },
+  {
+    "District Name": "JAMUI",
+    "Police Station": "Jamui Urban PS",
+    "Hospital": "Jamui Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Jamui District Collectorate"
+  },
+  {
+    "District Name": "JAMUI",
+    "Police Station": "Sikandra PS",
+    "Hospital": "Sikandra Hospital",
+    "Emergency Shelter": "Sikandra Emergency Shelter",
+    "Government Building": "Sikandra Sub-Collector Office"
+  },
+  {
+    "District Name": "JEHANABAD",
+    "Police Station": "Jehanabad Urban PS",
+    "Hospital": "Jehanabad Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Jehanabad District Collectorate"
+  },
+  {
+    "District Name": "JEHANABAD",
+    "Police Station": "Kako PS",
+    "Hospital": "Kako Hospital",
+    "Emergency Shelter": "Kako Emergency Shelter",
+    "Government Building": "Kako Sub-Collector Office"
+  },
+  {
+    "District Name": "KATIHAR",
+    "Police Station": "Katihar Urban PS",
+    "Hospital": "Katihar Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Katihar District Collectorate"
+  },
+  {
+    "District Name": "KATIHAR",
+    "Police Station": "Manihari PS",
+    "Hospital": "Manihari Hospital",
+    "Emergency Shelter": "Manihari Emergency Shelter",
+    "Government Building": "Manihari Sub-Collector Office"
+  },
+  {
+    "District Name": "KATIHAR RLY.",
+    "Police Station": "Katihar Rly. PS",
+    "Hospital": "Katihar Rly. Hospital",
+    "Emergency Shelter": "Katihar Rly. Emergency Shelter",
+    "Government Building": "Katihar Rly. Station Office"
+  },
+  {
+    "District Name": "KATIHAR RLY.",
+    "Police Station": "Kursela PS",
+    "Hospital": "Kursela Hospital",
+    "Emergency Shelter": "Kursela Emergency Shelter",
+    "Government Building": "Kursela Sub-Collector Office"
+  },
+  {
+    "District Name": "KHAGARIA",
+    "Police Station": "Khagaria Urban PS",
+    "Hospital": "Khagaria Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Khagaria District Collectorate"
+  },
+  {
+    "District Name": "KHAGARIA",
+    "Police Station": "Chautham PS",
+    "Hospital": "Chautham Hospital",
+    "Emergency Shelter": "Chautham Emergency Shelter",
+    "Government Building": "Chautham Sub-Collector Office"
+  },
+  {
+    "District Name": "KISHANGANJ",
+    "Police Station": "Kishanganj Urban PS",
+    "Hospital": "Kishanganj Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Kishanganj District Collectorate"
+  },
+  {
+    "District Name": "KISHANGANJ",
+    "Police Station": "Thakurganj PS",
+    "Hospital": "Thakurganj Hospital",
+    "Emergency Shelter": "Thakurganj Emergency Shelter",
+    "Government Building": "Thakurganj Sub-Collector Office"
+  },
+  {
+    "District Name": "LAKHISARAI",
+    "Police Station": "Lakhisarai Urban PS",
+    "Hospital": "Lakhisarai Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Lakhisarai District Collectorate"
+  },
+  {
+    "District Name": "LAKHISARAI",
+    "Police Station": "Halsi PS",
+    "Hospital": "Halsi Hospital",
+    "Emergency Shelter": "Halsi Emergency Shelter",
+    "Government Building": "Halsi Sub-Collector Office"
+  },
+  {
+    "District Name": "MADHEPURA",
+    "Police Station": "Madhepura Urban PS",
+    "Hospital": "Madhepura Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Madhepura District Collectorate"
+  },
+  {
+    "District Name": "MADHEPURA",
+    "Police Station": "Alamnagar PS",
+    "Hospital": "Alamnagar Hospital",
+    "Emergency Shelter": "Alamnagar Emergency Shelter",
+    "Government Building": "Alamnagar Sub-Collector Office"
+  },
+  {
+    "District Name": "MADHUBANI",
+    "Police Station": "Madhubani Urban PS",
+    "Hospital": "Madhubani Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Madhubani District Collectorate"
+  },
+  {
+    "District Name": "MADHUBANI",
+    "Police Station": "Laukaha PS",
+    "Hospital": "Laukaha Hospital",
+    "Emergency Shelter": "Laukaha Emergency Shelter",
+    "Government Building": "Laukaha Sub-Collector Office"
+  },
+  {
+    "District Name": "MOTIHARI",
+    "Police Station": "Motihari Urban PS",
+    "Hospital": "Motihari Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Motihari District Collectorate"
+  },
+  {
+    "District Name": "MOTIHARI",
+    "Police Station": "Chhatauni PS",
+    "Hospital": "Chhatauni Hospital",
+    "Emergency Shelter": "Chhatauni Emergency Shelter",
+    "Government Building": "Chhatauni Sub-Collector Office"
+  },
+  {
+    "District Name": "MUNGER",
+    "Police Station": "Munger Urban PS",
+    "Hospital": "Munger Government Hospital",
+    "Emergency Shelter": "Red Cross Emergency Shelter",
+    "Government Building": "Munger District Collectorate"
+  },
+  {
+    "District Name": "MUNGER",
+    "Police Station": "Jamalpur PS",
+    "Hospital": "Jamalpur Hospital",
+    "Emergency Shelter": "Jamalpur Emergency Shelter",
+    "Government Building": "Jamalpur Sub-Collector Office"
+  },
+  {
+    "District Name": "\\",
+    "Police Station": "",
+    "Hospital": "",
+    "Emergency Shelter": "",
+    "Government Building": ""
+  }
+]

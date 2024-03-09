@@ -10,6 +10,7 @@ void main() {
 class MyApp extends StatelessWidget {
   LocationController locationController = Get.put(LocationController());
   CrimeController crimeController = Get.put(CrimeController());
+  ResourceController resourceController = Get.put(ResourceController());
   MyApp({super.key});
 
   // This widget is the root of your application.

@@ -38,7 +38,8 @@ dependencies:
   geocoding: ^2.0.4
   get: ^4.6.6
   http: ^1.2.1
-  flutter_sms: ^2.3.3
+  fl_chart: ^0.66.2
+  carousel_slider: ^4.2.1
 
 dev_dependencies:
   flutter_test:

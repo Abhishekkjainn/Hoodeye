@@ -145,3 +145,36 @@ class CrimeData {
     };
   }
 }
+
+class ResourceModal {
+  String distrctname;
+  String PoliceStationName;
+  String HospitalName;
+  String EmergencyShelter;
+  String GovtBuilding;
+  ResourceModal({
+    required this.distrctname,
+    required this.PoliceStationName,
+    required this.HospitalName,
+    required this.EmergencyShelter,
+    required this.GovtBuilding,
+  });
+
+  factory ResourceModal.fromMap(Map<String, dynamic> map) {
+    return ResourceModal(
+        distrctname: map['District Name'],
+        PoliceStationName: map['Police Station'],
+        HospitalName: map['Hospital'],
+        EmergencyShelter: map['Emergency Shelter'],
+        GovtBuilding: map['Government Building']);
+  }
+  Map<String, dynamic> toMap() {
+    return {
+      'distrctname': distrctname,
+      'PoliceStationName': PoliceStationName,
+      'HospitalName': HospitalName,
+      'EmergencyShelter': EmergencyShelter,
+      'GovtBuilding': GovtBuilding
+    };
+  }
+}
