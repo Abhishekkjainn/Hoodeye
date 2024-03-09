@@ -36,6 +36,9 @@ dependencies:
   cupertino_icons: ^1.0.6
   geolocator: ^8.2.0
   geocoding: ^2.0.4
+  get: ^4.6.6
+  http: ^1.2.1
+  flutter_sms: ^2.3.3
 
 dev_dependencies:
   flutter_test:

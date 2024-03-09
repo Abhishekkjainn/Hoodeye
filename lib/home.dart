@@ -1,63 +1,29 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:geocoding/geocoding.dart';
 import 'package:geolocator/geolocator.dart';
+import 'package:get/get.dart';
 import 'package:hoodeye/constants/colors.dart';
+import 'package:hoodeye/controller/finalController.dart';
+import 'controller/crimeModal.dart';
 
 class Home extends StatefulWidget {
-  const Home({super.key});
+  const Home({Key? key}) : super(key: key);
 
   @override
   State<Home> createState() => _HomeState();
 }
 
 class _HomeState extends State<Home> {
-  String? _currentAddress;
-  Position? _currentPosition;
-  Future<bool> _handleLocationPermission() async {
-    bool serviceEnabled;
-    LocationPermission permission;
-
-    serviceEnabled = await Geolocator.isLocationServiceEnabled();
-    if (!serviceEnabled) {
-      ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
-          content: Text(
-              'Location services are disabled. Please enable the services')));
-      return false;
-    }
-    permission = await Geolocator.checkPermission();
-    if (permission == LocationPermission.denied) {
-      permission = await Geolocator.requestPermission();
-      if (permission == LocationPermission.denied) {
-        ScaffoldMessenger.of(context).showSnackBar(
-            const SnackBar(content: Text('Location permissions are denied')));
-        return false;
-      }
-    }
-    if (permission == LocationPermission.deniedForever) {
-      ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
-          content: Text(
-              'Location permissions are permanently denied, we cannot request permissions.')));
-      return false;
-    }
-    return true;
-  }
-
-  Future<void> _getCurrentPosition() async {
-    final hasPermission = await _handleLocationPermission();
-    if (!hasPermission) return;
-
-    await Geolocator.getCurrentPosition(desiredAccuracy: LocationAccuracy.high)
-        .then((Position position) {
-      setState(() => _currentPosition = position);
-    }).catchError((e) {
-      debugPrint(e);
-    });
-  }
+  LocationController locationController = Get.find();
+  CrimeController crimeController = Get.find();
 
   @override
   void initState() {
-    _handleLocationPermission();
-    _getCurrentPosition();
+    locationController.handleLocationPermission();
+    locationController.getCurrentPosition();
+    crimeController.getParsedData('Durg');
+    // crimeController.filterCrimesByDistrict('VELLORE');
     super.initState();
   }
 
@@ -71,8 +37,28 @@ class _HomeState extends State<Home> {
       ),
       body: SingleChildScrollView(
         child: Column(
+          mainAxisSize: MainAxisSize.min,
           children: [
-            LocationContainer(),
+            GetBuilder<LocationController>(
+              builder: (controller) {
+                return LocationContainer();
+              },
+            ),
+            GetBuilder<CrimeController>(
+              builder: (controller) {
+                return ListView.builder(
+                  itemCount: controller.filteredCrimes.length,
+                  shrinkWrap: true,
+                  physics: NeverScrollableScrollPhysics(),
+                  itemBuilder: (context, index) {
+                    return Text(
+                      crimeController.filteredCrimes[index].state,
+                      style: TextStyle(color: Colors.white),
+                    );
+                  },
+                );
+              },
+            )
           ],
         ),
       ),
@@ -86,8 +72,15 @@ class _HomeState extends State<Home> {
         child: Container(
           width: double.maxFinite,
           decoration: BoxDecoration(
-              borderRadius: BorderRadius.circular(10),
-              color: Pallete.drawerback),
+              borderRadius: BorderRadius.circular(20),
+              border: Border.all(color: Pallete.blue, width: 2),
+              gradient: LinearGradient(
+                  begin: Alignment.bottomLeft,
+                  end: Alignment.topRight,
+                  colors: [
+                    Pallete.blue.withOpacity(0.2),
+                    Pallete.blue.withOpacity(0.35)
+                  ])),
           child: Column(
             mainAxisSize: MainAxisSize.min,
             children: [
@@ -109,17 +102,20 @@ class _HomeState extends State<Home> {
                       width: 200,
                       // color: Colors.amberAccent,
                       child: Text(
-                        '${_currentPosition ?? ""}',
+                        '${locationController.currentAddress ?? "Finding Your Location.."}',
                         maxLines: 2,
                         overflow: TextOverflow.ellipsis,
                         style: TextStyle(
-                            color: Pallete.grey,
+                            color: Pallete.white,
                             fontSize: 14,
                             fontWeight: FontWeight.w600),
                       ),
                     ),
                     IconButton(
-                        onPressed: () {},
+                        onPressed: () {
+                          locationController.currentAddress = '';
+                          locationController.getCurrentPosition();
+                        },
                         icon: Icon(
                           CupertinoIcons.refresh_circled_solid,
                           color: Pallete.blue,
@@ -127,18 +123,6 @@ class _HomeState extends State<Home> {
                   ],
                 ),
               ),
-              // Padding(
-              //   padding: const EdgeInsets.all(10.0),
-              //   child: Row(
-              //     children: [
-              //       Icon(
-              //         CupertinoIcons
-              //             .line_horizontal_3_decrease_circle_fill,
-              //         color: Pallete.white,
-              //       ),
-              //     ],
-              //   ),
-              // )
             ],
           ),
         ),
