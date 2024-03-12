@@ -5,6 +5,7 @@ import 'package:flutter/services.dart';
 import 'package:geocoding/geocoding.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:get/get.dart';
+import 'package:get_storage/get_storage.dart';
 import 'package:hoodeye/controller/crimeModal.dart';
 import 'package:http/retry.dart';
 
@@ -229,6 +230,23 @@ class CrimeController extends GetxController {
 }
 
 class ResourceController extends GetxController {
+  final box = GetStorage();
+  bool setSplash() {
+    box.write('splash', true);
+    return box.read('splash');
+  }
+
+  bool readSplash() {
+    if (box.read('splash') == null) {
+      return false;
+    }
+    return box.read('splash');
+  }
+
+  void clearSplash() {
+    box.remove('splash');
+  }
+
   late List<ResourceModal> TotalResources = [];
   late List<ResourceModal> filteredResources = [];
   Future<List<ResourceModal>> getParsedDataResources(districtname) async {
@@ -250,5 +268,28 @@ class ResourceController extends GetxController {
     filteredResources = TotalResources.where((res) =>
         res.distrctname.toUpperCase() == districtName.toUpperCase()).toList();
     print('Filtered Resources for $districtName: ${filteredResources.length}');
+  }
+}
+
+class PersonalInfoController extends GetxController {
+  bool Gender = true;
+  String UserName = '';
+  int emergencyContact = 9301303584;
+
+  final info = GetStorage();
+
+  void setInfo(bool Gender, String Username, int Emergencycontact,
+      String Emergencycontactname) {
+    info.write('gender', Gender);
+    info.write('username', Username);
+    info.write('emergencycontact', Emergencycontact);
+    info.write('emergencycontactname', Emergencycontactname);
+  }
+
+  void readinfo() {
+    var gender = info.read('gender');
+    var username = info.read('username');
+    var contact = info.read('emergencycontact');
+    var contactname = info.read('emergencycontactname');
   }
 }

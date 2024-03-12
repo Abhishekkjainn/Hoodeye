@@ -23,7 +23,6 @@ class _HomeState extends State<Home> {
     locationController.handleLocationPermission();
     locationController.getCurrentPosition();
     crimeController.getParsedData('');
-    // crimeController.filterCrimesByDistrict('VELLORE');
     super.initState();
   }
 
